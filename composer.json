@@ -1,5 +1,5 @@
 {
-    "name": "rsa-esc/encrypt",
+    "name": "holdyou/encrypt",
     "description": "this is a encrypt package",
     "type": "library",
     "require": {
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "xiangxiaoping",
-            "email": "1129694891@qq.com"
+            "name": "holdyou",
+            "email": "416248856@qq.com"
         }
     ],
     "autoload": {
